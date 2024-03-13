@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Reyal time database crud opretion</string>
+    <string name="user_name">User Name</string>
+    <string name="userEmail">userEmail</string>
+</resources>
